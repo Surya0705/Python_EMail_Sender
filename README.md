@@ -8,7 +8,7 @@ This is a Python Program that can send simple Text Mails to anyone you want. It 
 <img src="Image3.png"><img>
 4. Type in anything such as I have typed in SMTP and click on Generate.
 <img src="Image4.png"><img>
-5.  pop-up with 16-Digit Code written in a Yellow-Box will appear. Copy that Code and Paste it in place of the White Box of the [Code_Screenshot Image](Code_Screenshot.png)
+5. A Pop-Up with 16-Digit Code written in Yellow-Box will appear. Copy that Code and Paste it in place of the White Box of the [Code_Screenshot Image](Code_Screenshot.png)
 <img src="Image5.jpg"><img>
 Below is the Code Screenshot Image:
 <img src="Code_Screenshot.png"><img>
